@@ -15,7 +15,20 @@ safe app-local deployment, automatic backup, and hash-checked rollback.
 [![Telemetry](https://img.shields.io/badge/telemetry-none-22D99A?style=flat-square)](PRIVACY.md)
 [![Distribution](https://img.shields.io/badge/repository-docs%20only-99A3B1?style=flat-square&labelColor=303A48)](SOURCE-AVAILABILITY.md)
 
-[Features](FEATURES.md) · [Compatibility](COMPATIBILITY.md) · [Quick start](QUICK-START.md) · [FAQ](FAQ.md) · [Deutsch](README-DE.md) · [Support](SUPPORT.md)
+<p align="center">
+  <a href="#the-family-at-a-glance"><img alt="Explore OmniWrappers" src="https://img.shields.io/badge/Explore%20OmniWrappers-8B5CF6?style=for-the-badge"></a>
+  <a href="#consumer-first-by-design"><img alt="Features" src="https://img.shields.io/badge/Features-232B36?style=for-the-badge"></a>
+  <a href="#the-family-at-a-glance"><img alt="Products" src="https://img.shields.io/badge/Products-232B36?style=for-the-badge"></a>
+  <a href="#a-safer-three-step-flow"><img alt="Workflow" src="https://img.shields.io/badge/Workflow-232B36?style=for-the-badge"></a>
+  <a href="#the-actual-installer-experience"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-232B36?style=for-the-badge"></a>
+  <a href="COMPATIBILITY.md"><img alt="Compatibility" src="https://img.shields.io/badge/Compatibility-232B36?style=for-the-badge"></a>
+  <a href="PRIVACY.md"><img alt="Privacy" src="https://img.shields.io/badge/Privacy-232B36?style=for-the-badge"></a>
+  <a href="QUICK-START.md"><img alt="Quick start" src="https://img.shields.io/badge/Quick%20Start-232B36?style=for-the-badge"></a>
+  <a href="FAQ.md"><img alt="FAQ" src="https://img.shields.io/badge/FAQ-232B36?style=for-the-badge"></a>
+  <a href="RELEASE-NOTES.md"><img alt="Release notes" src="https://img.shields.io/badge/Release%20Notes-232B36?style=for-the-badge"></a>
+  <a href="README-DE.md"><img alt="Deutsch" src="https://img.shields.io/badge/Deutsch-232B36?style=for-the-badge"></a>
+  <a href="#donationware-without-a-paywall"><img alt="Support" src="https://img.shields.io/badge/Support-232B36?style=for-the-badge"></a>
+</p>
 
 </div>
 
