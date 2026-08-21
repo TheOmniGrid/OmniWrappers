@@ -2,18 +2,13 @@
   <title id="title">OmniWrappers</title>
   <desc id="desc">Precision Hybrid banner for four private, offline and reversible Windows gaming wrapper installers.</desc>
   <rect width="1600" height="500" fill="#020509"/>
-  <path d="M0 0H1600V4H0Z" fill="#8B5CF6"/>
-  <path d="M0 496H1600V500H0Z" fill="#55C8FF"/>
   <g opacity=".52" stroke="#18202A" stroke-width="1">
     <path d="M0 86H1600M0 166H1600M0 246H1600M0 326H1600M0 406H1600"/>
     <path d="M100 0V500M300 0V500M500 0V500M700 0V500M900 0V500M1100 0V500M1300 0V500M1500 0V500"/>
   </g>
   <g transform="translate(80 62)">
-    <rect width="50" height="50" rx="4" fill="#0C1118" stroke="#303A48"/>
-    <path d="M11 36L20 14H38L29 36H11ZM18 29H31" fill="none" stroke="#8B5CF6" stroke-width="2.5"/>
-    <path d="M27 10L40 23" stroke="#55C8FF" stroke-width="2.5"/>
-    <text x="70" y="19" fill="#E7EBF2" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="5">OMNIWRAPPERS</text>
-    <text x="70" y="43" fill="#99A3B1" font-family="Cascadia Mono,Consolas,monospace" font-size="12" letter-spacing="3">WINDOWS GAME COMPATIBILITY / 1.0.0</text>
+    <text y="19" fill="#E7EBF2" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="5">OMNIWRAPPERS</text>
+    <text y="43" fill="#99A3B1" font-family="Cascadia Mono,Consolas,monospace" font-size="12" letter-spacing="3">WINDOWS GAME COMPATIBILITY / 1.0.0</text>
   </g>
   <g transform="translate(80 177)">
     <text fill="#E7EBF2" font-family="Segoe UI,Arial,sans-serif" font-size="61" font-weight="700" letter-spacing="1">CHOOSE THE GAME.</text>
