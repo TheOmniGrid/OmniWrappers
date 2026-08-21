@@ -138,6 +138,45 @@ modern, fast, no telemetry:
 
 <sub>**OmniWrappers** is four Direct3D compatibility installers — OmniDXVK, OmniDxWrapper, OmniVKD3D and OmniVoodoo2.</sub>
 
+<sub>Tuned for framerate, mixed for headroom, sharp to the pixel. Donationware
+tools for gamers and audiophiles — audio, graphics, and a bit of privacy too.</sub>
+
+More at [github.com/TheOmniGrid](https://github.com/TheOmniGrid).
+
+---
+
+## Credit
+
+OmniWrappers deploys other people's runtimes. The installers, their UI, the presentation
+assets and the deployment logic are OmniVex's; the wrappers themselves are not, and the
+projects behind them are the reason any of this works:
+
+- **[DXVK](https://github.com/doitsujin/dxvk)** — zlib/libpng licence. Altered versions
+  must be marked as such and the origin must not be misrepresented; the OmniDXVK
+  modifications are marked accordingly.
+- **[dxwrapper](https://github.com/elishacloud/dxwrapper)** — zlib-style licence; its
+  included MemoryModule portions are MPL 2.0.
+- **[vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton)** — LGPL 2.1.
+- **[dgVoodoo2](http://dege.freeweb.hu/)** by **Dege** — **not embedded**. You supply the
+  official, hash-pinned 2.87.3 package yourself, under the author's own terms.
+
+OmniWrappers is not affiliated with Microsoft, Khronos, Valve, 3dfx or the upstream wrapper
+authors unless explicitly stated.
+
+Full detail in [Legal & licenses](LEGAL.md) · [Third-party notices](THIRD-PARTY-NOTICES.md) ·
+[Source availability](SOURCE-AVAILABILITY.md)
+
+---
+
+## Contact
+
+This is a documentation-only public repository. Documentation corrections, reproducible
+compatibility reports, accessibility feedback and translations are all welcome — open an
+issue using the provided template. Source code, installer binaries, runtime DLLs and
+release evidence are not accepted here; see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+**omnivex@theomnigrid.biz**
+
 ---
 
 <div align="center">
@@ -148,6 +187,7 @@ modern, fast, no telemetry:
 [Ko-fi](https://ko-fi.com/theomnigrid) ·
 [Patreon](https://www.patreon.com/TheOmniGrid)
 
-<sub>Tuned for framerate, mixed for headroom, sharp to the pixel.<br>Donationware tools for gamers and audiophiles — audio, graphics, and a bit of privacy too.</sub>
+Copyright © 2026 OmniVex · Documentation-only repository<br>
+<sub>DXVK, dxwrapper, vkd3d-proton and dgVoodoo2 are the work of their respective authors and remain under their own licences. Direct3D and Windows are trademarks of Microsoft Corporation.</sub>
 
 </div>
