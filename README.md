@@ -23,22 +23,17 @@
 <!-- Quick navigation. These chips jump to sections on this page or to the
      document they name. Keep each target synchronized if a heading changes. -->
 <p align="center">
-  <a href="#get-omniwrappers"><img alt="Get OmniWrappers" src="https://img.shields.io/badge/Get%20OmniWrappers-8B5CF6?style=for-the-badge"></a>
-  <a href="#consumer-first-by-design"><img alt="Features" src="https://img.shields.io/badge/Features-232B36?style=for-the-badge"></a>
-  <a href="#the-family-at-a-glance"><img alt="Products" src="https://img.shields.io/badge/Products-232B36?style=for-the-badge"></a>
-  <a href="#a-safer-three-step-flow"><img alt="Workflow" src="https://img.shields.io/badge/Workflow-232B36?style=for-the-badge"></a>
-  <a href="#the-actual-installer-experience"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-232B36?style=for-the-badge"></a>
-  <a href="PRIVACY.md"><img alt="Privacy" src="https://img.shields.io/badge/Privacy-232B36?style=for-the-badge"></a>
-  <a href="COMPATIBILITY.md"><img alt="Compatibility" src="https://img.shields.io/badge/Compatibility-232B36?style=for-the-badge"></a>
-  <a href="INSTALLATION.md"><img alt="Installation" src="https://img.shields.io/badge/Installation-232B36?style=for-the-badge"></a>
-  <a href="FAQ.md"><img alt="FAQ" src="https://img.shields.io/badge/FAQ-232B36?style=for-the-badge"></a>
-  <a href="SUPPORT.md"><img alt="Support" src="https://img.shields.io/badge/Support-232B36?style=for-the-badge"></a>
-  <a href="CHANGELOG.md"><img alt="Changelog" src="https://img.shields.io/badge/Changelog-232B36?style=for-the-badge"></a>
-</p>
-
-<!-- Language switch. Kept separate from the task-oriented quick navigation. -->
-<p align="center">
-  <a href="README-DE.md"><img alt="Read in German" src="https://img.shields.io/badge/Language-Deutsch-232B36?style=flat-square"></a>
+  <a href="#get-omniwrappers"><img alt="Get OmniWrappers" src="https://img.shields.io/badge/⬇%20Get%20OmniWrappers-8A7BFF?style=for-the-badge"></a>
+  <a href="#consumer-first-by-design"><img alt="Features" src="https://img.shields.io/badge/Features-2B2545?style=for-the-badge"></a>
+  <a href="#the-family-at-a-glance"><img alt="Products" src="https://img.shields.io/badge/Products-2B2545?style=for-the-badge"></a>
+  <a href="#a-safer-three-step-flow"><img alt="Workflow" src="https://img.shields.io/badge/Workflow-2B2545?style=for-the-badge"></a>
+  <a href="#the-actual-installer-experience"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-2B2545?style=for-the-badge"></a>
+  <a href="PRIVACY.md"><img alt="Privacy" src="https://img.shields.io/badge/Privacy-2B2545?style=for-the-badge"></a>
+  <a href="COMPATIBILITY.md"><img alt="Compatibility" src="https://img.shields.io/badge/Compatibility-2B2545?style=for-the-badge"></a>
+  <a href="INSTALLATION.md"><img alt="Installation" src="https://img.shields.io/badge/Installation-2B2545?style=for-the-badge"></a>
+  <a href="FAQ.md"><img alt="FAQ" src="https://img.shields.io/badge/FAQ-2B2545?style=for-the-badge"></a>
+  <a href="SUPPORT.md"><img alt="Support" src="https://img.shields.io/badge/Support-2B2545?style=for-the-badge"></a>
+  <a href="CHANGELOG.md"><img alt="Changelog" src="https://img.shields.io/badge/Changelog-2B2545?style=for-the-badge"></a>
 </p>
 
 > [!IMPORTANT]
@@ -191,24 +186,26 @@ Full detail in [License](LICENSE.md) · [Third-party notices](THIRD-PARTY-NOTICE
 
 ## Contact
 
-This is a documentation-only public repository. Documentation corrections, reproducible
-compatibility reports, accessibility feedback and translations are all welcome — open an
-issue using the provided template. Source code, installer binaries, runtime DLLs and
-release evidence are not accepted here; see [CONTRIBUTING.md](CONTRIBUTING.md).
+Use public channels only for information that is safe to share. Remove usernames, local paths,
+account identifiers, licence data, and other personal information from screenshots and logs.
 
-**omnivex@theomnigrid.biz**
+| Channel | Use |
+|---|---|
+| [GitHub Issues](../../issues/new/choose) | Reproducible bugs, compatibility reports, and documentation corrections |
+| [GitHub Discussions](../../discussions) | Questions, ideas, and community support |
+| [Security](SECURITY.md) | Private vulnerability reporting — never use a public issue |
+| [Email](mailto:omnivex@theomnigrid.biz) | Private support, delivery, or licensing questions |
+
+Support is best-effort. See [SUPPORT.md](SUPPORT.md) and [CONTRIBUTING.md](CONTRIBUTING.md)
+for repository scope and reporting guidance.
 
 ---
 
-<div align="center">
-
-**OmniWrappers · offline · private · reversible**
-
-[TheOmniGrid on GitHub](https://github.com/TheOmniGrid) ·
-[Ko-fi](https://ko-fi.com/theomnigrid) ·
-[Patreon](https://www.patreon.com/TheOmniGrid)
-
-Copyright © 2026 OmniVex · Documentation-only repository<br>
-<sub>DXVK, dxwrapper, vkd3d-proton and dgVoodoo2 are the work of their respective authors and remain under their own licences. Direct3D and Windows are trademarks of Microsoft Corporation.</sub>
-
-</div>
+<p align="center">
+  <strong>OmniWrappers</strong><br>
+  <a href="https://github.com/TheOmniGrid">The OmniGrid on GitHub</a> ·
+  <a href="https://ko-fi.com/theomnigrid">Ko-fi</a> ·
+  <a href="https://www.patreon.com/TheOmniGrid">Patreon</a><br><br>
+  <sub>Copyright © 2026 OmniVex · Documentation-only repository · <a href="LICENSE.md">Legal &amp; licences</a></sub><br>
+  <sub>DXVK, dxwrapper, vkd3d-proton and dgVoodoo2 are the work of their respective authors and remain under their own licences. Direct3D and Windows are trademarks of Microsoft Corporation.</sub>
+</p>
