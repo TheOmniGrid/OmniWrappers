@@ -1,0 +1,60 @@
+name: Documentation or product issue
+description: Report an installer behavior, compatibility problem, or documentation error.
+title: "[Issue] "
+labels: [triage]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve OmniVex. Do not attach game files, installer binaries, account tokens, personal documents, or private crash dumps.
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      options:
+        - OmniDXVK
+        - OmniDxWrapper
+        - OmniVoodoo2
+        - OmniVKD3D (Experimental)
+        - Documentation / repository
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: OmniVex version
+      placeholder: 1.0.0
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened?
+      description: Describe the expected and actual result.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Relevant environment
+      description: Windows version, game title/patch, executable architecture, GPU, driver, and other overlays or injected software.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps
+      description: Include the selected API/DLL plan and exact warning text, but no copyrighted or personal files.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Safety checks
+      options:
+        - label: I selected the real game executable, not a launcher or shortcut.
+          required: true
+        - label: I rolled back before testing a different wrapper plan.
+          required: true
+        - label: I removed secrets, tokens, personal paths, and copyrighted game files.
+          required: true

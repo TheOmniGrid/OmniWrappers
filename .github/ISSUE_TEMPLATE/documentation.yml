@@ -1,0 +1,23 @@
+name: Documentation improvement
+description: Report unclear, incorrect, or missing public documentation.
+title: "[Docs] "
+labels: [documentation]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page or section
+      placeholder: README.md — Donationware, without a paywall
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What should be improved?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested wording or evidence
+      description: Optional. Link to authoritative upstream documentation when applicable.

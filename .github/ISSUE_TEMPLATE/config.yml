@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private security report
+    url: mailto:omnivex@theomnigrid.biz
+    about: Report suspected installer vulnerabilities privately.
+  - name: General support
+    url: mailto:omnivex@theomnigrid.biz
+    about: Contact OmniVex support without posting private files publicly.

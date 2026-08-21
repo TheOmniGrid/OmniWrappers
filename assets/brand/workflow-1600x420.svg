@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title id="title">OmniVex three-step setup workflow</title>
+  <desc id="desc">Select the real game executable, review the detected deployment plan, then deploy with backup and rollback.</desc>
+  <rect width="1600" height="420" fill="#020509"/>
+  <text x="64" y="66" fill="#E7EBF2" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700">FROM GAME EXE TO REVIEWED PLAN.</text>
+  <text x="64" y="96" fill="#99A3B1" font-family="Cascadia Mono,Consolas,monospace" font-size="13" letter-spacing="2">THREE STEPS · NO GLOBAL WINDOWS INSTALL</text>
+  <path d="M418 239H590M1009 239H1181" stroke="#303A48" stroke-width="2"/><path d="M573 228L590 239L573 250M1164 228L1181 239L1164 250" fill="none" stroke="#8B5CF6" stroke-width="2"/>
+  <g transform="translate(64 143)" font-family="Segoe UI,Arial,sans-serif">
+    <rect width="354" height="192" rx="4" fill="#0C1118" stroke="#303A48"/><text x="28" y="42" fill="#8B5CF6" font-family="Cascadia Mono,Consolas,monospace" font-size="12" letter-spacing="2">01 / TARGET</text><text x="28" y="83" fill="#E7EBF2" font-size="25" font-weight="700">Select the real game EXE</text><text x="28" y="121" fill="#99A3B1" font-size="16">Architecture and imported graphics</text><text x="28" y="147" fill="#99A3B1" font-size="16">APIs are read from the executable.</text><circle cx="313" cy="43" r="11" fill="none" stroke="#8B5CF6"/><path d="M313 36V50M306 43H320" stroke="#8B5CF6"/>
+  </g>
+  <g transform="translate(623 143)" font-family="Segoe UI,Arial,sans-serif">
+    <rect width="386" height="192" rx="4" fill="#0C1118" stroke="#303A48"/><text x="28" y="42" fill="#55C8FF" font-family="Cascadia Mono,Consolas,monospace" font-size="12" letter-spacing="2">02 / COMPATIBILITY</text><text x="28" y="83" fill="#E7EBF2" font-size="25" font-weight="700">Review the exact plan</text><text x="28" y="121" fill="#99A3B1" font-size="16">Valid DLL names, companions, warnings</text><text x="28" y="147" fill="#99A3B1" font-size="16">and collisions appear before a write.</text><path d="M337 33L343 39L354 26" fill="none" stroke="#55C8FF" stroke-width="2"/>
+  </g>
+  <g transform="translate(1214 143)" font-family="Segoe UI,Arial,sans-serif">
+    <rect width="322" height="192" rx="4" fill="#0C1118" stroke="#303A48"/><text x="28" y="42" fill="#22D99A" font-family="Cascadia Mono,Consolas,monospace" font-size="12" letter-spacing="2">03 / DEPLOY</text><text x="28" y="83" fill="#E7EBF2" font-size="25" font-weight="700">Install app-locally</text><text x="28" y="121" fill="#99A3B1" font-size="16">Backup first. Record hashes.</text><text x="28" y="147" fill="#99A3B1" font-size="16">Rollback only the matching install.</text><circle cx="282" cy="40" r="11" fill="#163A30" stroke="#22D99A"/><path d="M276 40L281 45L289 34" fill="none" stroke="#22D99A" stroke-width="2"/>
+  </g>
+  <text x="64" y="382" fill="#6F7A89" font-family="Cascadia Mono,Consolas,monospace" font-size="12" letter-spacing="1.3">WRITES ARE LIMITED TO THE RESOLVED GAME DIRECTORY. PROTECTED-GAME AND COLLISION PATHS REQUIRE EXPLICIT REVIEW.</text>
+</svg>
