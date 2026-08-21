@@ -36,11 +36,6 @@
   <a href="CHANGELOG.md"><img alt="Changelog" src="https://img.shields.io/badge/Changelog-232B36?style=for-the-badge"></a>
 </p>
 
-<!-- Language switch. Kept separate from the task-oriented quick navigation. -->
-<p align="center">
-  <a href="README-DE.md"><img alt="Read in German" src="https://img.shields.io/badge/Language-Deutsch-232B36?style=flat-square"></a>
-</p>
-
 > [!IMPORTANT]
 > **Documentation-only repository.** This public repository contains documentation, graphics, and real UI
 > screenshots only. It contains **no installer, executable, DLL, runtime
