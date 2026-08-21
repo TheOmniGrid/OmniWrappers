@@ -23,18 +23,18 @@
 <!-- Quick navigation. These chips jump to sections on this page or to the
      document they name. Keep each target synchronized if a heading changes. -->
 <p align="center">
-  <a href="#the-family-at-a-glance"><img alt="Explore OmniWrappers" src="https://img.shields.io/badge/Explore%20OmniWrappers-8B5CF6?style=for-the-badge"></a>
+  <a href="#get-omniwrappers"><img alt="Get OmniWrappers" src="https://img.shields.io/badge/Get%20OmniWrappers-8B5CF6?style=for-the-badge"></a>
   <a href="#consumer-first-by-design"><img alt="Features" src="https://img.shields.io/badge/Features-232B36?style=for-the-badge"></a>
   <a href="#the-family-at-a-glance"><img alt="Products" src="https://img.shields.io/badge/Products-232B36?style=for-the-badge"></a>
   <a href="#a-safer-three-step-flow"><img alt="Workflow" src="https://img.shields.io/badge/Workflow-232B36?style=for-the-badge"></a>
   <a href="#the-actual-installer-experience"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-232B36?style=for-the-badge"></a>
-  <a href="COMPATIBILITY.md"><img alt="Compatibility" src="https://img.shields.io/badge/Compatibility-232B36?style=for-the-badge"></a>
   <a href="PRIVACY.md"><img alt="Privacy" src="https://img.shields.io/badge/Privacy-232B36?style=for-the-badge"></a>
-  <a href="QUICK-START.md"><img alt="Quick start" src="https://img.shields.io/badge/Quick%20Start-232B36?style=for-the-badge"></a>
+  <a href="COMPATIBILITY.md"><img alt="Compatibility" src="https://img.shields.io/badge/Compatibility-232B36?style=for-the-badge"></a>
+  <a href="QUICK-START.md"><img alt="Installation" src="https://img.shields.io/badge/Installation-232B36?style=for-the-badge"></a>
   <a href="FAQ.md"><img alt="FAQ" src="https://img.shields.io/badge/FAQ-232B36?style=for-the-badge"></a>
-  <a href="RELEASE-NOTES.md"><img alt="Release notes" src="https://img.shields.io/badge/Release%20Notes-232B36?style=for-the-badge"></a>
   <a href="README-DE.md"><img alt="Deutsch" src="https://img.shields.io/badge/Deutsch-232B36?style=for-the-badge"></a>
-  <a href="#donationware-without-a-paywall"><img alt="Support" src="https://img.shields.io/badge/Support-232B36?style=for-the-badge"></a>
+  <a href="SUPPORT.md"><img alt="Support" src="https://img.shields.io/badge/Support-232B36?style=for-the-badge"></a>
+  <a href="RELEASE-NOTES.md"><img alt="Changelog" src="https://img.shields.io/badge/Changelog-232B36?style=for-the-badge"></a>
 </p>
 
 > [!IMPORTANT]
@@ -98,7 +98,7 @@ Every image below is a real capture of the current 1.0.0 installer candidate.
 |---|---|
 | ![OmniVoodoo2 installer](assets/screenshots/omni-voodoo2-installer.png) | ![OmniVKD3D installer](assets/screenshots/omni-vkd3d-installer.png) |
 
-## Donationware, without a paywall
+## Get OmniWrappers
 
 OmniWrappers is free donationware: **no required payment and no ads**. If the
 project saves you time or helps an older game run, optional support helps fund
@@ -114,7 +114,7 @@ turn DXVK, dxwrapper, vkd3d-proton, or dgVoodoo2 into proprietary OmniWrappers
 software. See [Legal & licenses](LEGAL.md), [Third-party notices](THIRD-PARTY-NOTICES.md),
 and [Source availability](SOURCE-AVAILABILITY.md).
 
-## Release status
+## Current status
 
 Version **1.0.0** is a tested final candidate. The consumer-surface,
 installation-flow, and documentation gates pass, but the delivery executables
@@ -125,7 +125,7 @@ showcase and documentation home—not a public binary distribution channel.
 - Smart installation flow: **11/11 passed**
 - Documentation maintenance gate: **4/4 passed**
 
-Read the [release notes](RELEASE-NOTES.md) and [security policy](SECURITY.md) for
+Read the [changelog](RELEASE-NOTES.md) and [security policy](SECURITY.md) for
 the current limits. For help, open an issue using the provided template or
 email `omnivex@theomnigrid.biz`.
 
