@@ -32,9 +32,13 @@
   <a href="COMPATIBILITY.md"><img alt="Compatibility" src="https://img.shields.io/badge/Compatibility-232B36?style=for-the-badge"></a>
   <a href="QUICK-START.md"><img alt="Installation" src="https://img.shields.io/badge/Installation-232B36?style=for-the-badge"></a>
   <a href="FAQ.md"><img alt="FAQ" src="https://img.shields.io/badge/FAQ-232B36?style=for-the-badge"></a>
-  <a href="README-DE.md"><img alt="Deutsch" src="https://img.shields.io/badge/Deutsch-232B36?style=for-the-badge"></a>
   <a href="SUPPORT.md"><img alt="Support" src="https://img.shields.io/badge/Support-232B36?style=for-the-badge"></a>
   <a href="RELEASE-NOTES.md"><img alt="Changelog" src="https://img.shields.io/badge/Changelog-232B36?style=for-the-badge"></a>
+</p>
+
+<!-- Language switch. Kept separate from the task-oriented quick navigation. -->
+<p align="center">
+  <a href="README-DE.md"><img alt="Read in German" src="https://img.shields.io/badge/Language-Deutsch-232B36?style=flat-square"></a>
 </p>
 
 > [!IMPORTANT]
