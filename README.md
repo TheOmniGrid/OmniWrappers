@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="RELEASE-NOTES.md"><img alt="Version" src="https://img.shields.io/badge/version-1.0.0-8B5CF6?style=flat-square"></a>
+  <a href="CHANGELOG.md"><img alt="Version" src="https://img.shields.io/badge/version-1.0.0-8B5CF6?style=flat-square"></a>
   <a href="COMPATIBILITY.md"><img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-55C8FF?style=flat-square"></a>
   <a href="FEATURES.md"><img alt="Languages" src="https://img.shields.io/badge/languages-EN%20%C2%B7%20DE%20%C2%B7%20ES%20%C2%B7%20FR%20%C2%B7%20RO-8B5CF6?style=flat-square"></a>
   <a href="PRIVACY.md"><img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-22D99A?style=flat-square"></a>
@@ -23,24 +23,45 @@
 <!-- Quick navigation. These chips jump to sections on this page or to the
      document they name. Keep each target synchronized if a heading changes. -->
 <p align="center">
-  <a href="#the-family-at-a-glance"><img alt="Explore OmniWrappers" src="https://img.shields.io/badge/Explore%20OmniWrappers-8B5CF6?style=for-the-badge"></a>
+  <a href="#get-omniwrappers"><img alt="Get OmniWrappers" src="https://img.shields.io/badge/Get%20OmniWrappers-8B5CF6?style=for-the-badge"></a>
   <a href="#consumer-first-by-design"><img alt="Features" src="https://img.shields.io/badge/Features-232B36?style=for-the-badge"></a>
   <a href="#the-family-at-a-glance"><img alt="Products" src="https://img.shields.io/badge/Products-232B36?style=for-the-badge"></a>
   <a href="#a-safer-three-step-flow"><img alt="Workflow" src="https://img.shields.io/badge/Workflow-232B36?style=for-the-badge"></a>
   <a href="#the-actual-installer-experience"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-232B36?style=for-the-badge"></a>
-  <a href="COMPATIBILITY.md"><img alt="Compatibility" src="https://img.shields.io/badge/Compatibility-232B36?style=for-the-badge"></a>
   <a href="PRIVACY.md"><img alt="Privacy" src="https://img.shields.io/badge/Privacy-232B36?style=for-the-badge"></a>
-  <a href="QUICK-START.md"><img alt="Quick start" src="https://img.shields.io/badge/Quick%20Start-232B36?style=for-the-badge"></a>
+  <a href="COMPATIBILITY.md"><img alt="Compatibility" src="https://img.shields.io/badge/Compatibility-232B36?style=for-the-badge"></a>
+  <a href="INSTALLATION.md"><img alt="Installation" src="https://img.shields.io/badge/Installation-232B36?style=for-the-badge"></a>
   <a href="FAQ.md"><img alt="FAQ" src="https://img.shields.io/badge/FAQ-232B36?style=for-the-badge"></a>
-  <a href="RELEASE-NOTES.md"><img alt="Release notes" src="https://img.shields.io/badge/Release%20Notes-232B36?style=for-the-badge"></a>
-  <a href="README-DE.md"><img alt="Deutsch" src="https://img.shields.io/badge/Deutsch-232B36?style=for-the-badge"></a>
-  <a href="#donationware-without-a-paywall"><img alt="Support" src="https://img.shields.io/badge/Support-232B36?style=for-the-badge"></a>
+  <a href="SUPPORT.md"><img alt="Support" src="https://img.shields.io/badge/Support-232B36?style=for-the-badge"></a>
+  <a href="CHANGELOG.md"><img alt="Changelog" src="https://img.shields.io/badge/Changelog-232B36?style=for-the-badge"></a>
+</p>
+
+<!-- Language switch. Kept separate from the task-oriented quick navigation. -->
+<p align="center">
+  <a href="README-DE.md"><img alt="Read in German" src="https://img.shields.io/badge/Language-Deutsch-232B36?style=flat-square"></a>
 </p>
 
 > [!IMPORTANT]
-> This public repository contains documentation, graphics, and real UI
+> **Documentation-only repository.** This public repository contains documentation, graphics, and real UI
 > screenshots only. It contains **no installer, executable, DLL, runtime
 > payload, source code, or download release**.
+
+## Consumer-first by design
+
+![OmniWrappers core features](assets/brand/feature-grid-1600x520.svg)
+
+- Automatic PE architecture inspection and graphics-import analysis.
+- Exact proxy-DLL mapping with required companion expansion.
+- Preview-before-write, protected-game warnings, and collision review.
+- Per-game backup, bounded manifests, and hash-checked rollback.
+- Five live UI languages: English, German, Spanish, French, and Romanian.
+- Offline operation with no account, ads, telemetry, or background service.
+- Privacy-redacted support packages and a controlled test-launch path.
+- Precision Hybrid UI: flat graphite surfaces, compact technical labels,
+  high-contrast states, and subtle preference-aware motion.
+
+Engineering labs, benchmark panels, Wave centers, corpus tools, and maintainer
+commands are deliberately excluded from the consumer interface.
 
 ## The family at a glance
 
@@ -67,23 +88,6 @@ work. OmniVKD3D is explicitly experimental on native Windows.
 3. **Deploy** — install the reviewed plan beside the game with backup enabled;
    roll back only the files matching the recorded installation.
 
-## Consumer-first by design
-
-![OmniWrappers core features](assets/brand/feature-grid-1600x520.svg)
-
-- Automatic PE architecture inspection and graphics-import analysis.
-- Exact proxy-DLL mapping with required companion expansion.
-- Preview-before-write, protected-game warnings, and collision review.
-- Per-game backup, bounded manifests, and hash-checked rollback.
-- Five live UI languages: English, German, Spanish, French, and Romanian.
-- Offline operation with no account, ads, telemetry, or background service.
-- Privacy-redacted support packages and a controlled test-launch path.
-- Precision Hybrid UI: flat graphite surfaces, compact technical labels,
-  high-contrast states, and subtle preference-aware motion.
-
-Engineering labs, benchmark panels, Wave centers, corpus tools, and maintainer
-commands are deliberately excluded from the consumer interface.
-
 ## The actual installer experience
 
 Every image below is a real capture of the current 1.0.0 installer candidate.
@@ -98,7 +102,7 @@ Every image below is a real capture of the current 1.0.0 installer candidate.
 |---|---|
 | ![OmniVoodoo2 installer](assets/screenshots/omni-voodoo2-installer.png) | ![OmniVKD3D installer](assets/screenshots/omni-vkd3d-installer.png) |
 
-## Donationware, without a paywall
+## Get OmniWrappers
 
 OmniWrappers is free donationware: **no required payment and no ads**. If the
 project saves you time or helps an older game run, optional support helps fund
@@ -111,10 +115,27 @@ testing, packaging, documentation, and support.
 
 Third-party runtimes keep their own licenses and rights. A donation does not
 turn DXVK, dxwrapper, vkd3d-proton, or dgVoodoo2 into proprietary OmniWrappers
-software. See [Legal & licenses](LEGAL.md), [Third-party notices](THIRD-PARTY-NOTICES.md),
+software. See [License](LICENSE.md), [Third-party notices](THIRD-PARTY-NOTICES.md),
 and [Source availability](SOURCE-AVAILABILITY.md).
 
-## Release status
+## Documentation
+
+| | |
+|---|---|
+| [Installation](INSTALLATION.md) | Choose a wrapper and follow the guarded installation flow |
+| [Features](FEATURES.md) | Product capabilities and safety boundaries |
+| [Compatibility](COMPATIBILITY.md) | Supported games, renderers and known limits |
+| [Privacy](PRIVACY.md) | Local data, network access and telemetry boundaries |
+| [FAQ](FAQ.md) | Common wrapper, install and rollback questions |
+| [Support](SUPPORT.md) | Useful reports, privacy redaction and contact routes |
+| [Security](SECURITY.md) | Private vulnerability reporting |
+| [Contributing](CONTRIBUTING.md) | Documentation and reproducible-report scope |
+| [Changelog](CHANGELOG.md) | Release history and current status |
+| [Licence](LICENSE.md) | OmniVex material and third-party licence boundaries |
+| [Third-party notices](THIRD-PARTY-NOTICES.md) | Upstream runtimes and licences |
+| [Source availability](SOURCE-AVAILABILITY.md) | Source obligations for distributed runtimes |
+
+## Current status
 
 Version **1.0.0** is a tested final candidate. The consumer-surface,
 installation-flow, and documentation gates pass, but the delivery executables
@@ -125,7 +146,7 @@ showcase and documentation home—not a public binary distribution channel.
 - Smart installation flow: **11/11 passed**
 - Documentation maintenance gate: **4/4 passed**
 
-Read the [release notes](RELEASE-NOTES.md) and [security policy](SECURITY.md) for
+Read the [changelog](CHANGELOG.md) and [security policy](SECURITY.md) for
 the current limits. For help, open an issue using the provided template or
 email `omnivex@theomnigrid.biz`.
 
@@ -163,7 +184,7 @@ projects behind them are the reason any of this works:
 OmniWrappers is not affiliated with Microsoft, Khronos, Valve, 3dfx or the upstream wrapper
 authors unless explicitly stated.
 
-Full detail in [Legal & licenses](LEGAL.md) · [Third-party notices](THIRD-PARTY-NOTICES.md) ·
+Full detail in [License](LICENSE.md) · [Third-party notices](THIRD-PARTY-NOTICES.md) ·
 [Source availability](SOURCE-AVAILABILITY.md)
 
 ---
