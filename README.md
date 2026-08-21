@@ -23,7 +23,7 @@
 <!-- Quick navigation. These chips jump to sections on this page or to the
      document they name. Keep each target synchronized if a heading changes. -->
 <p align="center">
-  <a href="#get-omniwrappers"><img alt="Get OmniWrappers" src="https://img.shields.io/badge/Get%20OmniWrappers-8B5CF6?style=for-the-badge"></a>
+  <a href="#get-omniwrappers"><img alt="Get OmniWrappers" src="https://img.shields.io/badge/Get%20OmniWrappers-8A7BFF?style=for-the-badge"></a>
   <a href="#consumer-first-by-design"><img alt="Features" src="https://img.shields.io/badge/Features-232B36?style=for-the-badge"></a>
   <a href="#the-family-at-a-glance"><img alt="Products" src="https://img.shields.io/badge/Products-232B36?style=for-the-badge"></a>
   <a href="#a-safer-three-step-flow"><img alt="Workflow" src="https://img.shields.io/badge/Workflow-232B36?style=for-the-badge"></a>
