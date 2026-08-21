@@ -186,24 +186,26 @@ Full detail in [License](LICENSE.md) · [Third-party notices](THIRD-PARTY-NOTICE
 
 ## Contact
 
-This is a documentation-only public repository. Documentation corrections, reproducible
-compatibility reports, accessibility feedback and translations are all welcome — open an
-issue using the provided template. Source code, installer binaries, runtime DLLs and
-release evidence are not accepted here; see [CONTRIBUTING.md](CONTRIBUTING.md).
+Use public channels only for information that is safe to share. Remove usernames, local paths,
+account identifiers, licence data, and other personal information from screenshots and logs.
 
-**omnivex@theomnigrid.biz**
+| Channel | Use |
+|---|---|
+| [GitHub Issues](../../issues/new/choose) | Reproducible bugs, compatibility reports, and documentation corrections |
+| [GitHub Discussions](../../discussions) | Questions, ideas, and community support |
+| [Security](SECURITY.md) | Private vulnerability reporting — never use a public issue |
+| [Email](mailto:omnivex@theomnigrid.biz) | Private support, delivery, or licensing questions |
+
+Support is best-effort. See [SUPPORT.md](SUPPORT.md) and [CONTRIBUTING.md](CONTRIBUTING.md)
+for repository scope and reporting guidance.
 
 ---
 
-<div align="center">
-
-**OmniWrappers · offline · private · reversible**
-
-[TheOmniGrid on GitHub](https://github.com/TheOmniGrid) ·
-[Ko-fi](https://ko-fi.com/theomnigrid) ·
-[Patreon](https://www.patreon.com/TheOmniGrid)
-
-Copyright © 2026 OmniVex · Documentation-only repository<br>
-<sub>DXVK, dxwrapper, vkd3d-proton and dgVoodoo2 are the work of their respective authors and remain under their own licences. Direct3D and Windows are trademarks of Microsoft Corporation.</sub>
-
-</div>
+<p align="center">
+  <strong>OmniWrappers</strong><br>
+  <a href="https://github.com/TheOmniGrid">The OmniGrid on GitHub</a> ·
+  <a href="https://ko-fi.com/theomnigrid">Ko-fi</a> ·
+  <a href="https://www.patreon.com/TheOmniGrid">Patreon</a><br><br>
+  <sub>Copyright © 2026 OmniVex · Documentation-only repository · <a href="LICENSE.md">Legal &amp; licences</a></sub><br>
+  <sub>DXVK, dxwrapper, vkd3d-proton and dgVoodoo2 are the work of their respective authors and remain under their own licences. Direct3D and Windows are trademarks of Microsoft Corporation.</sub>
+</p>
