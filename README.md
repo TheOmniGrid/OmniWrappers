@@ -4,6 +4,7 @@
 
 <h1 align="center">OmniWrappers</h1>
 <p align="center"><b>Choose the game. Omni handles the wrapper — four focused Windows compatibility installers with architecture-aware planning, safe app-local deployment, automatic backup, and hash-checked rollback.</b></p>
+<p align="center">Part of the <a href="#the-omnivex-suite">OmniVex</a> suite.</p>
 
 <p align="center">
   <a href="https://www.patreon.com/TheOmniGrid"><img alt="Get it on Patreon" src="https://img.shields.io/badge/Get%20it%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"></a>
@@ -127,6 +128,15 @@ showcase and documentation home—not a public binary distribution channel.
 Read the [release notes](RELEASE-NOTES.md) and [security policy](SECURITY.md) for
 the current limits. For help, open an issue using the provided template or
 email `omnivex@theomnigrid.biz`.
+
+## The OmniVex suite
+
+OmniWrappers is one of a family of tools sharing a design language and a philosophy —
+modern, fast, no telemetry:
+
+**OmniTheme** · **OmniBlock** · **OmniCleaner** · **OmniAPO** · **OmniEQ** · **OmniPlay** · **OmniScale** · **OmniShade** · **OmniVisuals** · **OmniGPU** · **OmniWrappers**
+
+<sub>**OmniWrappers** is four Direct3D compatibility installers — OmniDXVK, OmniDxWrapper, OmniVKD3D and OmniVoodoo2.</sub>
 
 ---
 
