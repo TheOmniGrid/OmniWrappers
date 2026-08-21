@@ -100,8 +100,8 @@ project saves you time or helps an older game run, optional support helps fund
 testing, packaging, documentation, and support.
 
 <div align="center">
-  <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/btn-kofi-480x96.svg" width="360" alt="Support OmniWrappers on Ko-fi"></a>
-  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/btn-patreon-480x96.svg" width="360" alt="Support OmniWrappers on Patreon"></a>
+  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/support-patreon.svg" height="64" alt="Support OmniWrappers on Patreon"></a>
+  <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/support-kofi.svg" height="64" alt="Support OmniWrappers on Ko-fi"></a>
 </div>
 
 Third-party runtimes keep their own licenses and rights. A donation does not

@@ -50,8 +50,8 @@ keine Werbung. Freiwillige Unterstützung finanziert Tests, Paketierung,
 Dokumentation und Support.
 
 <div align="center">
-  <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/btn-kofi-480x96.svg" width="360" alt="OmniWrappers auf Ko-fi unterstützen"></a>
-  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/btn-patreon-480x96.svg" width="360" alt="OmniWrappers auf Patreon unterstützen"></a>
+  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/support-patreon.svg" height="64" alt="OmniWrappers auf Patreon unterstützen"></a>
+  <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/support-kofi.svg" height="64" alt="OmniWrappers auf Ko-fi unterstützen"></a>
 </div>
 
 Fremdkomponenten behalten ihre eigenen Lizenzen und Rechte. Eine Spende macht
