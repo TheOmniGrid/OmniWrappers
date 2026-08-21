@@ -6,9 +6,9 @@
 <p align="center"><b>Choose the game. Omni handles the wrapper — four focused Windows compatibility installers with architecture-aware planning, safe app-local deployment, automatic backup, and hash-checked rollback.</b></p>
 
 <p align="center">
-  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/support-patreon.svg" height="64" alt="Support OmniWrappers on Patreon"></a>
-  &nbsp;&nbsp;
-  <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/support-kofi.svg" height="64" alt="Support OmniWrappers on Ko-fi"></a>
+  <a href="https://www.patreon.com/TheOmniGrid"><img alt="Get it on Patreon" src="https://img.shields.io/badge/Get%20it%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"></a>
+  &nbsp;
+  <a href="https://ko-fi.com/theomnigrid"><img alt="Get it on Ko-fi" src="https://img.shields.io/badge/Get%20it%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -103,8 +103,10 @@ OmniWrappers is free donationware: **no required payment and no ads**. If the
 project saves you time or helps an older game run, optional support helps fund
 testing, packaging, documentation, and support.
 
-Optional support is available through [Patreon](https://www.patreon.com/TheOmniGrid)
-or [Ko-fi](https://ko-fi.com/theomnigrid).
+<div align="center">
+  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/support-patreon.svg" height="64" alt="Support OmniWrappers on Patreon"></a>
+  <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/support-kofi.svg" height="64" alt="Support OmniWrappers on Ko-fi"></a>
+</div>
 
 Third-party runtimes keep their own licenses and rights. A donation does not
 turn DXVK, dxwrapper, vkd3d-proton, or dgVoodoo2 into proprietary OmniWrappers
