@@ -1,20 +1,26 @@
-<div align="center">
+<p align="center">
+  <img src="assets/brand/banner-1600x500.svg" alt="OmniWrappers — choose the game, Omni handles the wrapper" width="100%">
+</p>
 
-![OmniWrappers](assets/brand/banner-1600x500.svg)
+<h1 align="center">OmniWrappers</h1>
+<p align="center"><b>Choose the game. Omni handles the wrapper — four focused Windows compatibility installers with architecture-aware planning, safe app-local deployment, automatic backup, and hash-checked rollback.</b></p>
 
-# OmniWrappers
+<p align="center">
+  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/support-patreon.svg" height="64" alt="Support OmniWrappers on Patreon"></a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/support-kofi.svg" height="64" alt="Support OmniWrappers on Ko-fi"></a>
+</p>
 
-### Choose the game. Omni handles the wrapper.
+<p align="center">
+  <a href="RELEASE-NOTES.md"><img alt="Version" src="https://img.shields.io/badge/version-1.0.0-8B5CF6?style=flat-square"></a>
+  <a href="COMPATIBILITY.md"><img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-55C8FF?style=flat-square"></a>
+  <a href="FEATURES.md"><img alt="Languages" src="https://img.shields.io/badge/languages-EN%20%C2%B7%20DE%20%C2%B7%20ES%20%C2%B7%20FR%20%C2%B7%20RO-8B5CF6?style=flat-square"></a>
+  <a href="PRIVACY.md"><img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-22D99A?style=flat-square"></a>
+  <a href="SOURCE-AVAILABILITY.md"><img alt="Distribution" src="https://img.shields.io/badge/distribution-docs%20only-99A3B1?style=flat-square&labelColor=303A48"></a>
+</p>
 
-Four focused Windows compatibility installers with architecture-aware planning,
-safe app-local deployment, automatic backup, and hash-checked rollback.
-
-[![Version](https://img.shields.io/badge/version-1.0.0-8B5CF6?style=flat-square)](RELEASE-NOTES.md)
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-55C8FF?style=flat-square)](COMPATIBILITY.md)
-[![Languages](https://img.shields.io/badge/UI%20languages-5-E7EBF2?style=flat-square&labelColor=303A48)](FEATURES.md)
-[![Telemetry](https://img.shields.io/badge/telemetry-none-22D99A?style=flat-square)](PRIVACY.md)
-[![Distribution](https://img.shields.io/badge/repository-docs%20only-99A3B1?style=flat-square&labelColor=303A48)](SOURCE-AVAILABILITY.md)
-
+<!-- Quick navigation. These chips jump to sections on this page or to the
+     document they name. Keep each target synchronized if a heading changes. -->
 <p align="center">
   <a href="#the-family-at-a-glance"><img alt="Explore OmniWrappers" src="https://img.shields.io/badge/Explore%20OmniWrappers-8B5CF6?style=for-the-badge"></a>
   <a href="#consumer-first-by-design"><img alt="Features" src="https://img.shields.io/badge/Features-232B36?style=for-the-badge"></a>
@@ -29,8 +35,6 @@ safe app-local deployment, automatic backup, and hash-checked rollback.
   <a href="README-DE.md"><img alt="Deutsch" src="https://img.shields.io/badge/Deutsch-232B36?style=for-the-badge"></a>
   <a href="#donationware-without-a-paywall"><img alt="Support" src="https://img.shields.io/badge/Support-232B36?style=for-the-badge"></a>
 </p>
-
-</div>
 
 > [!IMPORTANT]
 > This public repository contains documentation, graphics, and real UI
@@ -99,10 +103,8 @@ OmniWrappers is free donationware: **no required payment and no ads**. If the
 project saves you time or helps an older game run, optional support helps fund
 testing, packaging, documentation, and support.
 
-<div align="center">
-  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/support-patreon.svg" height="64" alt="Support OmniWrappers on Patreon"></a>
-  <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/support-kofi.svg" height="64" alt="Support OmniWrappers on Ko-fi"></a>
-</div>
+Optional support is available through [Patreon](https://www.patreon.com/TheOmniGrid)
+or [Ko-fi](https://ko-fi.com/theomnigrid).
 
 Third-party runtimes keep their own licenses and rights. A donation does not
 turn DXVK, dxwrapper, vkd3d-proton, or dgVoodoo2 into proprietary OmniWrappers
