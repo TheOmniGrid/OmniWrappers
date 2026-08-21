@@ -1,4 +1,4 @@
-# OmniVex 1.0.0
+# OmniWrappers 1.0.0
 
 First unified consumer release of OmniDXVK, OmniDxWrapper, OmniVoodoo2 and
 OmniVKD3D.

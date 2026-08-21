@@ -1,6 +1,6 @@
 # Source availability
 
-The private OmniVex installer source is not hosted in this documentation
+The private OmniWrappers installer source is not hosted in this documentation
 repository. That choice does not remove source obligations or recipient rights
 for covered third-party components.
 
@@ -16,6 +16,6 @@ for covered third-party components.
   and applicable terms directly from the
   [official upstream release](https://github.com/dege-diosg/dgVoodoo2/releases/tag/v2.87.3).
 
-Source requests should name the OmniVex product, version, installer SHA-256 and
+Source requests should name the OmniWrappers product, version, installer SHA-256 and
 third-party component. Keep this offer accessible for the period required by
 the applicable license and local law.

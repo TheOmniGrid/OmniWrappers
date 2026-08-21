@@ -1,8 +1,8 @@
 <div align="center">
 
-![OmniVex Gaming Wrappers](assets/brand/banner-1600x500.svg)
+![OmniWrappers](assets/brand/banner-1600x500.svg)
 
-# OmniVex Gaming Wrappers
+# OmniWrappers
 
 ### Choose the game. Omni handles the wrapper.
 
@@ -26,7 +26,7 @@ safe app-local deployment, automatic backup, and hash-checked rollback.
 
 ## The family at a glance
 
-![Four OmniVex products](assets/brand/products-1600x560.svg)
+![Four OmniWrappers products](assets/brand/products-1600x560.svg)
 
 | Product | Best fit | Current runtime basis |
 |---|---|---|
@@ -41,7 +41,7 @@ work. OmniVKD3D is explicitly experimental on native Windows.
 
 ## A safer three-step flow
 
-![OmniVex setup workflow](assets/brand/workflow-1600x420.svg)
+![OmniWrappers setup workflow](assets/brand/workflow-1600x420.svg)
 
 1. **Target** — select the real game executable, not its launcher or shortcut.
 2. **Compatibility** — review detected architecture, imported API, exact DLL
@@ -51,7 +51,7 @@ work. OmniVKD3D is explicitly experimental on native Windows.
 
 ## Consumer-first by design
 
-![OmniVex core features](assets/brand/feature-grid-1600x520.svg)
+![OmniWrappers core features](assets/brand/feature-grid-1600x520.svg)
 
 - Automatic PE architecture inspection and graphics-import analysis.
 - Exact proxy-DLL mapping with required companion expansion.
@@ -70,7 +70,7 @@ commands are deliberately excluded from the consumer interface.
 
 Every image below is a real capture of the current 1.0.0 installer candidate.
 
-![All four OmniVex installers](assets/screenshots/omnivex-installer-collection.png)
+![All four OmniWrappers installers](assets/screenshots/omnivex-installer-collection.png)
 
 | OmniDXVK | OmniDxWrapper |
 |---|---|
@@ -82,17 +82,17 @@ Every image below is a real capture of the current 1.0.0 installer candidate.
 
 ## Donationware, without a paywall
 
-OmniVex tools are free donationware: **no required payment and no ads**. If the
+OmniWrappers is free donationware: **no required payment and no ads**. If the
 project saves you time or helps an older game run, optional support helps fund
 testing, packaging, documentation, and support.
 
 <div align="center">
-  <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/btn-kofi-480x96.svg" width="360" alt="Support OmniVex on Ko-fi"></a>
-  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/btn-patreon-480x96.svg" width="360" alt="Support OmniVex on Patreon"></a>
+  <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/btn-kofi-480x96.svg" width="360" alt="Support OmniWrappers on Ko-fi"></a>
+  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/btn-patreon-480x96.svg" width="360" alt="Support OmniWrappers on Patreon"></a>
 </div>
 
 Third-party runtimes keep their own licenses and rights. A donation does not
-turn DXVK, dxwrapper, vkd3d-proton, or dgVoodoo2 into proprietary OmniVex
+turn DXVK, dxwrapper, vkd3d-proton, or dgVoodoo2 into proprietary OmniWrappers
 software. See [Legal & licenses](LEGAL.md), [Third-party notices](THIRD-PARTY-NOTICES.md),
 and [Source availability](SOURCE-AVAILABILITY.md).
 
@@ -115,7 +115,7 @@ email `omnivex@theomnigrid.biz`.
 
 <div align="center">
 
-**OmniVex · offline · private · reversible**
+**OmniWrappers · offline · private · reversible**
 
 [TheOmniGrid on GitHub](https://github.com/TheOmniGrid) ·
 [Ko-fi](https://ko-fi.com/theomnigrid) ·

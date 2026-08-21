@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
-  <title id="title">OmniVex Gaming Wrappers</title>
+  <title id="title">OmniWrappers</title>
   <desc id="desc">Precision Hybrid banner for four private, offline and reversible Windows gaming wrapper installers.</desc>
   <rect width="1600" height="500" fill="#020509"/>
   <path d="M0 0H1600V4H0Z" fill="#8B5CF6"/>
@@ -12,8 +12,8 @@
     <rect width="50" height="50" rx="4" fill="#0C1118" stroke="#303A48"/>
     <path d="M11 36L20 14H38L29 36H11ZM18 29H31" fill="none" stroke="#8B5CF6" stroke-width="2.5"/>
     <path d="M27 10L40 23" stroke="#55C8FF" stroke-width="2.5"/>
-    <text x="70" y="19" fill="#E7EBF2" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="6">OMNIVEX</text>
-    <text x="70" y="43" fill="#99A3B1" font-family="Cascadia Mono,Consolas,monospace" font-size="12" letter-spacing="3">GAMING WRAPPERS / 1.0.0</text>
+    <text x="70" y="19" fill="#E7EBF2" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="5">OMNIWRAPPERS</text>
+    <text x="70" y="43" fill="#99A3B1" font-family="Cascadia Mono,Consolas,monospace" font-size="12" letter-spacing="3">WINDOWS GAME COMPATIBILITY / 1.0.0</text>
   </g>
   <g transform="translate(80 177)">
     <text fill="#E7EBF2" font-family="Segoe UI,Arial,sans-serif" font-size="61" font-weight="700" letter-spacing="1">CHOOSE THE GAME.</text>

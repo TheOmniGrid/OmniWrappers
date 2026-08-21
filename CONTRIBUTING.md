@@ -7,7 +7,7 @@ feedback, translations, and links to authoritative upstream information.
 ## Before opening an issue
 
 - Select the real game executable, not a launcher or shortcut.
-- Record the OmniVex product and version, game patch, executable architecture,
+- Record the OmniWrappers product and version, game patch, executable architecture,
   Windows version, GPU, and driver.
 - Roll back before testing a different wrapper plan.
 - Remove account data, tokens, personal paths, copyrighted game files, and

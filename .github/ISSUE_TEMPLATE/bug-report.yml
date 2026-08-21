@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping improve OmniVex. Do not attach game files, installer binaries, account tokens, personal documents, or private crash dumps.
+        Thanks for helping improve OmniWrappers. Do not attach game files, installer binaries, account tokens, personal documents, or private crash dumps.
   - type: dropdown
     id: product
     attributes:
@@ -22,7 +22,7 @@ body:
   - type: input
     id: version
     attributes:
-      label: OmniVex version
+      label: OmniWrappers version
       placeholder: 1.0.0
     validations:
       required: true

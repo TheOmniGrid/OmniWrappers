@@ -5,7 +5,7 @@ Upload the contents of **this `GitHub/` directory only**.
 Allowed:
 
 - Markdown documentation
-- Product icons, real installer screenshots and OmniVex brand graphics
+- Product icons, real installer screenshots and OmniWrappers graphics
 - Repository metadata under `.github/`, `.gitignore`, and `.gitattributes`
 
 Forbidden:

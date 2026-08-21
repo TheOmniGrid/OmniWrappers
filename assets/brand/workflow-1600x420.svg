@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
-  <title id="title">OmniVex three-step setup workflow</title>
+  <title id="title">OmniWrappers three-step setup workflow</title>
   <desc id="desc">Select the real game executable, review the detected deployment plan, then deploy with backup and rollback.</desc>
   <rect width="1600" height="420" fill="#020509"/>
   <text x="64" y="66" fill="#E7EBF2" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700">FROM GAME EXE TO REVIEWED PLAN.</text>

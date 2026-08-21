@@ -1,8 +1,8 @@
 <div align="center">
 
-![OmniVex Gaming Wrappers](assets/brand/banner-1600x500.svg)
+![OmniWrappers](assets/brand/banner-1600x500.svg)
 
-# OmniVex Gaming Wrappers 1.0.0
+# OmniWrappers 1.0.0
 
 ### Spiel auswählen. Omni kümmert sich um den Wrapper.
 
@@ -15,12 +15,12 @@
 > und echte UI-Screenshots. Es enthält **keine Installer, EXE-/DLL-Dateien,
 > Runtime-Payloads, Quelltexte oder Download-Releases**.
 
-OmniVex besteht aus vier übersichtlichen Windows-Installern für Spiele. Sie
+OmniWrappers besteht aus vier übersichtlichen Windows-Installern für Spiele. Sie
 analysieren die echte Spiel-EXE, erkennen deren Architektur und importierte
 Grafik-APIs, wählen gültige DLL-Namen und zeigen jede geplante Datei vor dem
 Schreiben an.
 
-![Vier OmniVex-Produkte](assets/brand/products-1600x560.svg)
+![Vier OmniWrappers-Produkte](assets/brand/products-1600x560.svg)
 
 - **OmniDXVK:** Direct3D 8–11 über Vulkan, x86/x64.
 - **OmniDxWrapper:** ältere 32-Bit-Windows-Spiele und Legacy-APIs.
@@ -30,7 +30,7 @@ Schreiben an.
 
 ## Drei nachvollziehbare Schritte
 
-![OmniVex-Ablauf](assets/brand/workflow-1600x420.svg)
+![OmniWrappers-Ablauf](assets/brand/workflow-1600x420.svg)
 
 1. Die echte Spiel-EXE auswählen — keinen Launcher oder Shortcut.
 2. Architektur, API, exakte DLL-Namen, Warnungen und Kollisionen prüfen.
@@ -41,22 +41,22 @@ Die Consumer-Oberfläche ist offline, werbefrei, ohne Konto und ohne Telemetrie.
 Sie bietet English, Deutsch, Español, Français und Română. Entwickler-, Wave-,
 Benchmark- und Corpus-Werkzeuge sind nicht Teil der Consumer-Oberfläche.
 
-![Alle vier OmniVex-Installer](assets/screenshots/omnivex-installer-collection.png)
+![Alle vier OmniWrappers-Installer](assets/screenshots/omnivex-installer-collection.png)
 
 ## Freie Donationware
 
-Alle OmniVex-Tools sind kostenlos. Es gibt keine erforderliche Zahlung und
+OmniWrappers ist kostenlos. Es gibt keine erforderliche Zahlung und
 keine Werbung. Freiwillige Unterstützung finanziert Tests, Paketierung,
 Dokumentation und Support.
 
 <div align="center">
-  <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/btn-kofi-480x96.svg" width="360" alt="OmniVex auf Ko-fi unterstützen"></a>
-  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/btn-patreon-480x96.svg" width="360" alt="OmniVex auf Patreon unterstützen"></a>
+  <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/btn-kofi-480x96.svg" width="360" alt="OmniWrappers auf Ko-fi unterstützen"></a>
+  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/btn-patreon-480x96.svg" width="360" alt="OmniWrappers auf Patreon unterstützen"></a>
 </div>
 
 Fremdkomponenten behalten ihre eigenen Lizenzen und Rechte. Eine Spende macht
-DXVK, dxwrapper, vkd3d-proton oder dgVoodoo2 nicht zu proprietärer OmniVex-
-Software.
+DXVK, dxwrapper, vkd3d-proton oder dgVoodoo2 nicht zu proprietärer
+OmniWrappers-Software.
 
 Version **1.0.0** ist ein getesteter Final Candidate. Die Auslieferungsdateien
 sind noch nicht Authenticode-signiert; dieses Repository ist daher eine

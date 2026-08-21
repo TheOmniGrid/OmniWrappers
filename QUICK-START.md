@@ -1,6 +1,6 @@
 # Quick start
 
-1. Close the game and extract/run the correct OmniVex installer.
+1. Close the game and extract/run the correct OmniWrappers installer.
 2. Pick your language in the upper-right corner.
 3. Select the **real game executable**. Avoid launchers, setup programs,
    shortcuts and crash reporters.
@@ -25,6 +25,6 @@ installer or in Downloads. For an x64/ARM64 game, also provide
 
 ## If the game is protected
 
-Stop and check the publisher's policy. OmniVex never bypasses anti-cheat. A
+Stop and check the publisher's policy. OmniWrappers never bypasses anti-cheat. A
 local wrapper can still be prohibited or trigger a protection system even when
 it is technically harmless.
