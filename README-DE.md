@@ -6,7 +6,7 @@
 
 ### Spiel auswählen. Omni kümmert sich um den Wrapper.
 
-[English](README.md) · [Funktionen](FEATURES.md) · [Kompatibilität](COMPATIBILITY.md) · [Schnellstart](QUICK-START.md) · [Support](SUPPORT.md)
+[English](README.md) · [Funktionen](FEATURES.md) · [Kompatibilität](COMPATIBILITY.md) · [Installation](INSTALLATION.md) · [Support](SUPPORT.md)
 
 </div>
 
