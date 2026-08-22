@@ -51,6 +51,7 @@ Dokumentation und Support.
 
 <div align="center">
   <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/support-patreon.svg" height="64" alt="OmniWrappers auf Patreon unterstützen"></a>
+  &nbsp;&nbsp;
   <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/support-kofi.svg" height="64" alt="OmniWrappers auf Ko-fi unterstützen"></a>
 </div>
 
