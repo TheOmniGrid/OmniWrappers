@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/brand/banner-animated.gif?v=20260822-symbol-reactor" alt="OmniWrappers — Choose the game. Omni handles the wrapper." width="100%">
+  <img src="assets/brand/banner-animated.gif?v=20260822-premium-motion-v3" alt="OmniWrappers — Choose the game. Omni handles the wrapper." width="100%">
 </p>
 
 <h1 align="center">OmniWrappers</h1>
