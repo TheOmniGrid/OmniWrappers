@@ -94,7 +94,7 @@ Every image below is a real capture of the current 1.0.0 installer candidate.
 |---|---|
 | ![OmniDXVK installer](assets/screenshots/omni-dxvk-installer.png) | ![OmniDxWrapper installer](assets/screenshots/omni-dxwrapper-installer.png) |
 
-| OmniVoodoo2 | OmniVKD3D Experimental |
+| OmniVoodoo2 | OmniVKD3D<br><sub>Experimental</sub> |
 |---|---|
 | ![OmniVoodoo2 installer](assets/screenshots/omni-voodoo2-installer.png) | ![OmniVKD3D installer](assets/screenshots/omni-vkd3d-installer.png) |
 
