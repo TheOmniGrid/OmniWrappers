@@ -130,7 +130,7 @@ and [Source availability](SOURCE-AVAILABILITY.md).
 | [Third-party notices](THIRD-PARTY-NOTICES.md) | Upstream runtimes and licences |
 | [Source availability](SOURCE-AVAILABILITY.md) | Source obligations for distributed runtimes |
 
-## Current status
+### Project status
 
 Version **1.0.0** is a tested final candidate. The consumer-surface,
 installation-flow, and documentation gates pass, but the delivery executables
@@ -206,6 +206,6 @@ for repository scope and reporting guidance.
   <a href="https://github.com/TheOmniGrid">The OmniGrid on GitHub</a> ·
   <a href="https://ko-fi.com/theomnigrid">Ko-fi</a> ·
   <a href="https://www.patreon.com/TheOmniGrid">Patreon</a><br><br>
-  <sub>Copyright © 2026 OmniVex · Documentation-only repository · <a href="LICENSE.md">Legal &amp; licences</a></sub><br>
+  <sub>Copyright © 2026 OmniVex · Documentation-only repository · <a href="LICENSE.md">Legal &amp; licensing</a></sub><br>
   <sub>DXVK, dxwrapper, vkd3d-proton and dgVoodoo2 are the work of their respective authors and remain under their own licences. Direct3D and Windows are trademarks of Microsoft Corporation.</sub>
 </p>
