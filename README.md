@@ -12,12 +12,13 @@
   <a href="https://ko-fi.com/theomnigrid"><img alt="Get it on Ko-fi" src="https://img.shields.io/badge/Get%20it%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
 </p>
 
+<!-- Suite metadata: Version · Platform · Languages · Telemetry · Distribution -->
 <p align="center">
-  <a href="CHANGELOG.md"><img alt="Version" src="https://img.shields.io/badge/version-1.0.0-8B5CF6?style=flat-square"></a>
-  <a href="COMPATIBILITY.md"><img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-55C8FF?style=flat-square"></a>
-  <a href="FEATURES.md"><img alt="Languages" src="https://img.shields.io/badge/languages-EN%20%C2%B7%20DE%20%C2%B7%20ES%20%C2%B7%20FR%20%C2%B7%20RO-8B5CF6?style=flat-square"></a>
-  <a href="PRIVACY.md"><img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-22D99A?style=flat-square"></a>
-  <a href="SOURCE-AVAILABILITY.md"><img alt="Distribution" src="https://img.shields.io/badge/distribution-docs%20only-99A3B1?style=flat-square&labelColor=303A48"></a>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-8A7BFF?style=flat-square">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D4?style=flat-square">
+  <img alt="Languages" src="https://img.shields.io/badge/languages-EN%20%C2%B7%20DE%20%C2%B7%20ES%20%C2%B7%20FR%20%C2%B7%20RO-8A7BFF?style=flat-square">
+  <img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-2EA043?style=flat-square">
+  <img alt="Distribution" src="https://img.shields.io/badge/distribution-docs%20only-99A3B1?style=flat-square">
 </p>
 
 <!-- Quick navigation. These chips jump to sections on this page or to the
