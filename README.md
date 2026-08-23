@@ -44,7 +44,7 @@
 
 ## Consumer-first by design
 
-![OmniWrappers core features](assets/brand/feature-grid-1600x520.svg)
+![OmniWrappers capability map covering architecture-aware planning, exact deployment, safe changes, and the consumer-first experience](assets/presentation/capabilities.png)
 
 - Automatic PE architecture inspection and graphics-import analysis.
 - Exact proxy-DLL mapping with required companion expansion.
@@ -61,7 +61,7 @@ commands are deliberately excluded from the consumer interface.
 
 ## The family at a glance
 
-![Four OmniWrappers products](assets/brand/products-1600x560.svg)
+![The four OmniWrappers installers and their intended Direct3D compatibility paths](assets/presentation/products.png)
 
 | Product | Best fit | Current runtime basis |
 |---|---|---|
@@ -76,7 +76,7 @@ work. OmniVKD3D is explicitly experimental on native Windows.
 
 ## A safer three-step flow
 
-![OmniWrappers setup workflow](assets/brand/workflow-1600x420.svg)
+![OmniWrappers setup workflow from target selection through compatibility review to reversible deployment](assets/presentation/workflow.png)
 
 1. **Target** — select the real game executable, not its launcher or shortcut.
 2. **Compatibility** — review detected architecture, imported API, exact DLL
