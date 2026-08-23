@@ -20,7 +20,7 @@ analysieren die echte Spiel-EXE, erkennen deren Architektur und importierte
 Grafik-APIs, wählen gültige DLL-Namen und zeigen jede geplante Datei vor dem
 Schreiben an.
 
-![Vier OmniWrappers-Produkte](assets/brand/products-1600x560.svg)
+![Die vier OmniWrappers-Installer und ihre vorgesehenen Direct3D-Kompatibilitätspfade](assets/presentation/products.png)
 
 - **OmniDXVK:** Direct3D 8–11 über Vulkan, x86/x64.
 - **OmniDxWrapper:** ältere 32-Bit-Windows-Spiele und Legacy-APIs.
@@ -30,7 +30,7 @@ Schreiben an.
 
 ## Drei nachvollziehbare Schritte
 
-![OmniWrappers-Ablauf](assets/brand/workflow-1600x420.svg)
+![OmniWrappers-Ablauf von der Zielauswahl über die Kompatibilitätsprüfung bis zur rücksetzbaren Bereitstellung](assets/presentation/workflow.png)
 
 1. Die echte Spiel-EXE auswählen — keinen Launcher oder Shortcut.
 2. Architektur, API, exakte DLL-Namen, Warnungen und Kollisionen prüfen.
