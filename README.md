@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/brand/banner-animated.gif?v=20260823-wrapper-routing-v4" alt="OmniWrappers — Choose the game. Omni handles the wrapper." width="100%">
+  <img src="assets/brand/banner-animated.gif?v=20260825-current-symbols-v5" alt="OmniWrappers — Choose the game. Omni handles the wrapper." width="100%">
 </p>
 
 <h1 align="center">OmniWrappers</h1>
-<p align="center"><b>Choose the game. Omni handles the wrapper — four focused Windows compatibility installers with architecture-aware planning, safe app-local deployment, automatic backup, and hash-checked rollback.</b></p>
+<p align="center"><b>Choose the game. Omni handles the wrapper — four focused Windows compatibility installers with offline product matching, architecture-aware planning, recoverable app-local deployment, repair, safe upgrade, and hash-checked rollback.</b></p>
 <p align="center">Part of the <a href="#the-omnivex-suite">OmniVex</a> suite.</p>
 
 <p align="center">
@@ -15,10 +15,10 @@
 <!-- Suite metadata: Version · Platform · Languages · Telemetry · Distribution -->
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-8A7BFF?style=flat-square">
-  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D4?style=flat-square">
-  <img alt="Languages" src="https://img.shields.io/badge/languages-EN%20%C2%B7%20DE%20%C2%B7%20ES%20%C2%B7%20FR%20%C2%B7%20RO-8A7BFF?style=flat-square">
-  <img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-2EA043?style=flat-square">
-  <img alt="Distribution" src="https://img.shields.io/badge/distribution-docs%20only-99A3B1?style=flat-square">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011%20%C2%B7%20x86%20%2F%20x64-57C7FF?style=flat-square">
+  <img alt="Languages: 10" src="https://img.shields.io/badge/languages-10-8A7BFF?style=flat-square">
+  <img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-00C66D?style=flat-square">
+  <img alt="Distribution" src="https://img.shields.io/badge/distribution-docs%20only-969FAB?style=flat-square&labelColor=30363D">
 </p>
 
 <!-- Quick navigation. These chips jump to sections on this page or to the
@@ -49,8 +49,14 @@
 - Automatic PE architecture inspection and graphics-import analysis.
 - Exact proxy-DLL mapping with required companion expansion.
 - Preview-before-write, protected-game warnings, and collision review.
-- Per-game backup, bounded manifests, and hash-checked rollback.
-- Five live UI languages: English, German, Spanish, French, and Romanian.
+- Durable, bounded transactions with finish-or-restore recovery, missing-file
+  repair, safe same-target upgrade, one known-good previous version, and exact rollback preview.
+- OmniMatch, local GPU/Vulkan readiness, exact hash/version-only profiles, and
+  state-aware primary actions—all offline and explicit about their evidence limits.
+- An optional reversible 4 GB address-space path for eligible native x86 games,
+  with explicit confirmation, exact backup and hash-verified restore.
+- Ten live UI languages: English, German, Spanish, French, Romanian, Russian,
+  Simplified Chinese, Japanese, Korean, and Turkish.
 - Offline operation with no account, ads, telemetry, or background service.
 - Privacy-redacted support packages and a controlled test-launch path.
 - Precision Hybrid UI: flat graphite surfaces, compact technical labels,
@@ -79,10 +85,10 @@ work. OmniVKD3D is explicitly experimental on native Windows.
 ![OmniWrappers setup workflow from target selection through compatibility review to reversible deployment](assets/presentation/workflow.png?v=20260823-presentation-alignment-v2)
 
 1. **Target** — select the real game executable, not its launcher or shortcut.
-2. **Compatibility** — review detected architecture, imported API, exact DLL
-   names, required companions, warnings, and collisions.
-3. **Deploy** — install the reviewed plan beside the game with backup enabled;
-   roll back only the files matching the recorded installation.
+2. **Compatibility** — review architecture, imported API, exact DLL names,
+   OmniMatch, readiness, verified-profile status, warnings, and collisions.
+3. **Deploy** — install, safely upgrade, or repair the reviewed app-local plan;
+   recover interruptions explicitly and preview rollback before changing it.
 
 ## The actual installer experience
 
@@ -97,6 +103,13 @@ Every image below is a real capture of the current 1.0.0 installer candidate.
 | OmniVoodoo2 | OmniVKD3D<br><sub>Experimental</sub> |
 |---|---|
 | ![OmniVoodoo2 installer](assets/screenshots/omni-voodoo2-installer.png) | ![OmniVKD3D installer](assets/screenshots/omni-vkd3d-installer.png) |
+
+<details>
+<summary><strong>View all four installers across all ten interface languages</strong></summary>
+
+![Four OmniWrappers products in English, German, Spanish, French, Romanian, Russian, Simplified Chinese, Japanese, Korean, and Turkish](assets/screenshots/ten-language-matrix.png)
+
+</details>
 
 ## Get OmniWrappers
 
@@ -140,7 +153,11 @@ are not yet Authenticode-signed. This repository is therefore a product
 showcase and documentation home—not a public binary distribution channel.
 
 - Consumer surface gate: **17/17 passed**
-- Smart installation flow: **11/11 passed**
+- Smart installation flow: **12/12 passed**
+- Transaction/recovery and consumer intelligence: **5/5 passed**
+- Reversible 4 GB address-space safety: **16/16 passed**
+- Ten-language localization: **14/14 passed**
+- Consumer UI contract: **10/10 passed**
 - Documentation maintenance gate: **4/4 passed**
 
 Read the [changelog](CHANGELOG.md) and [security policy](SECURITY.md) for
