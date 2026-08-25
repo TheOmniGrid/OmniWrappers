@@ -18,16 +18,32 @@
 - Detects existing wrappers and requires a reviewed decision on collisions.
 - Backs up replaced files by default.
 - Records installed hashes and restores only the matching installation.
+- Uses a bounded durable write-ahead journal for install, upgrade, repair,
+  previous-version restore, and rollback.
+- After interruption, explicitly finishes the prepared state or restores the
+  exact prior state while protecting later user changes.
+- Supports same-target-set safe upgrades, one previous known-good version, and
+  missing-file-only repair without replacing modified tracked files.
+- Offers a preview of every restore, remove, and protect action before rollback.
 - Bounds rollback manifests and streams backup restoration with fixed memory.
 - Provides a reversible rollback flow without a global Windows uninstall.
 
 ### Friendly consumer experience
 
 - Consumer-only interface without engineering or benchmark panels.
-- Five live UI languages: English, Deutsch, Español, Français and Română.
+- Ten live UI languages: English, Deutsch, Español, Français, Română, Русский,
+  简体中文, 日本語, 한국어, and Türkçe, with live switching, local persistence,
+  first-run Windows locale detection, and safe English fallback.
 - Plain-language hover help and UI Automation help text.
 - Game discovery, launcher-to-real-EXE detection and drag/drop path entry.
-- Game check, controlled test launch and privacy-redacted support package.
+- OmniMatch, local GPU/Vulkan readiness, exact hash/version-only offline
+  profiles, and installation-health cards with evidence limits stated in the UI.
+- Game check, controlled test launch and privacy-redacted support package with
+  exact pre-save contents, logs off by default, and no automatic upload.
+- Optional reversible 4 GB address space for eligible native x86 games on
+  64-bit Windows. It requires explicit confirmation and uses exact hash-verified
+  backup and restore; signed, managed, protected, launcher, system/network,
+  reparse, x64/ARM64, and later-changed targets are blocked.
 - Precision Hybrid styling with flat graphite surfaces, compact technical
   labels, subtle preference-aware motion, and high-contrast support.
 
